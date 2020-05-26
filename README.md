@@ -1,4 +1,4 @@
-#JSA
+# JSA
 
 Codes for reproducing experiments  in “Zhijian Ou, Yunfu Song. Joint Stochastic Approximation and its Application to Learning Discrete Latent Variable Models, UAI 2020”.
 
